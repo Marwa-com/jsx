@@ -2,19 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title{
+  font-style: italic;
+  font-weight: 800;
+  color: blueviolet;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.red:hover{
+  color: crimson;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:darksalmon;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
